@@ -1,2 +1,2 @@
 # Frontend-Design
-Repositório de layouts 
+Repositório de layouts e projetos desenvolvidos em plataformas de ensino online
